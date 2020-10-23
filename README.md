@@ -25,7 +25,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Links
 
-![Repo](https://github.com/ad-fleming/Budget-Tracker-PWA)
+[Repo](https://github.com/ad-fleming/Budget-Tracker-PWA)
 
-![Deployed Site](https://budget-tracker-102020.herokuapp.com/)
+[Deployed Site](https://budget-tracker-102020.herokuapp.com/)
 
